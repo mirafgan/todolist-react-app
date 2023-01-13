@@ -1,0 +1,15 @@
+.todo-box{
+    width: 320px;
+}
+.todo-box > div{
+    width: 100%;
+}
+div > p{
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+}
+button{
+    margin-left: 10px;
+}
